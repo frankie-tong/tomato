@@ -14,8 +14,4 @@ This is **bold** text, and this is *emphasized* text.
 
 <!--- Comments in HTML way -->
 
-{{< details summary="See the details" >}}
-This is a **bold** word.
-{{< /details >}}
-
 
