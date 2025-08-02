@@ -6,7 +6,8 @@ title = 'My Second Post'
 
 # This is the second post
 
-```mermaid
+{{<mermaid>}}
+
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
@@ -14,9 +15,11 @@ flowchart TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 
-```
+{{</mermaid>}}
 
-```mermaid
+
+
+{{<mermaid>}}
 
 sequenceDiagram
     participant Alice
@@ -30,7 +33,8 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 
-```
+
+{{</mermaid>}}
 
 <!-- comment 
 
